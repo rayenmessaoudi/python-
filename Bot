@@ -1,3 +1,7 @@
+
+
+
+```python
 import sys
 import socket
 import time
@@ -31,3 +35,5 @@ while 1:
           irc.send("PRIVMSG "+channel+" :hello!\r\n")
      text=""
 input()
+
+```
